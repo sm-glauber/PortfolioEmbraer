@@ -90,8 +90,8 @@ header nav.menu-desktop ul li{
 /* ESTILO MENU MOBILE */
 
 .btn-abrir-menu img{
-    color: #0000ff;
-    font-size: 40px;
+    color: #ffffff;
+    font-size: 10px;
     cursor: pointer;
 }
 
@@ -313,7 +313,7 @@ section.portfolio .flex{
     height: 460px;
     background-size: cover;
     background-position: 100% 0%;
-    transition: 8s;
+    transition: 3s;
     border-radius: 40px;
     cursor: pointer;
     position: relative;
